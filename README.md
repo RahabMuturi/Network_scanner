@@ -1,4 +1,4 @@
-# Network_scanner.py
+# Network_scanner
 
 A simple Python network scanner that allows users to discover devices on a network, which scans a specified IP range for active devices, provides basic information about discovered devices and customizable through command-line options.
 
